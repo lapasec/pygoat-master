@@ -1,0 +1,6 @@
+projectKey=PyGoat
+serverUrl=http://localhost:9000
+serverVersion=25.3.0.104237
+dashboardUrl=http://localhost:9000/dashboard?id=PyGoat
+ceTaskId=be6f3722-d8af-493f-852a-d143f4f672b7
+ceTaskUrl=http://localhost:9000/api/ce/task?id=be6f3722-d8af-493f-852a-d143f4f672b7
